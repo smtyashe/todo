@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "M8qXl7x58byCtw3gTd5PgGB9D1EVkKkYfTEmLb79U3seB8E46keVu47WhjjydGPUe871shtFr+l5FnUO57UGaQ==",
+  "dgSpecHash": "Wf2U8YeiaYvXr729ubjNdGSHBCaouWI4pg0suDhQHWarVTKDdCHWegg3ER/D8uW7wwxjxQb6bY8c5QzBfds3CQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\sibulele.mtyashe\\Desktop\\Gemini\\todo\\TodoUIAutomation\\TodoUIAutomation.csproj",
   "expectedPackageFiles": [
@@ -21,7 +21,7 @@
     "C:\\Users\\sibulele.mtyashe\\.nuget\\packages\\nunit3testadapter\\3.17.0\\nunit3testadapter.3.17.0.nupkg.sha512",
     "C:\\Users\\sibulele.mtyashe\\.nuget\\packages\\runtime.native.system\\4.3.0\\runtime.native.system.4.3.0.nupkg.sha512",
     "C:\\Users\\sibulele.mtyashe\\.nuget\\packages\\selenium.webdriver\\4.0.0-rc1\\selenium.webdriver.4.0.0-rc1.nupkg.sha512",
-    "C:\\Users\\sibulele.mtyashe\\.nuget\\packages\\selenium.webdriver.chromedriver\\94.0.4606.4101-beta\\selenium.webdriver.chromedriver.94.0.4606.4101-beta.nupkg.sha512",
+    "C:\\Users\\sibulele.mtyashe\\.nuget\\packages\\selenium.webdriver.chromedriver\\93.0.4577.6300\\selenium.webdriver.chromedriver.93.0.4577.6300.nupkg.sha512",
     "C:\\Users\\sibulele.mtyashe\\.nuget\\packages\\system.appcontext\\4.1.0\\system.appcontext.4.1.0.nupkg.sha512",
     "C:\\Users\\sibulele.mtyashe\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
     "C:\\Users\\sibulele.mtyashe\\.nuget\\packages\\system.collections.nongeneric\\4.3.0\\system.collections.nongeneric.4.3.0.nupkg.sha512",

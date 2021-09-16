@@ -58,7 +58,7 @@
             },
             "Selenium.WebDriver.ChromeDriver": {
               "target": "Package",
-              "version": "[94.0.4606.4101-beta, )"
+              "version": "[93.0.4577.6300, )"
             },
             "coverlet.collector": {
               "target": "Package",
